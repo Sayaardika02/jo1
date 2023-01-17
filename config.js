@@ -28,7 +28,7 @@ global.packname = 'The Jo Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.',',🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
